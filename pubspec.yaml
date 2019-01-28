@@ -12,6 +12,7 @@ dependencies:
   google_api_availability:
      git:
       url: https://github.com/marcmo/google_api_availability.git
+      ref: b1c24254a73
 dev_dependencies:
   flutter_test:
     sdk: flutter
